@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Mendez</h1>
-<h3 align="center">A passionate backend developer from Ibagué, Colombia</h3>
+<h3 align="center">A passionate Backend Developer from Ibagué, Colombia</h3>
 
 - 🔭 I’m currently working on **Personal projects**
 
